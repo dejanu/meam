@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  mychart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-11-28T23:41:01.942874+02:00"
+    description: A Helm chart for Kubernetes
+    digest: d16c96c7267cc09e2a7a1b121de1fb7db1957dde68c4a4d7a162413d3ecfc590
+    name: mychart
+    type: application
+    urls:
+    - https://dejanu.github.io/meam/packages/mychart-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-11-28T23:41:01.941633+02:00"
